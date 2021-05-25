@@ -1,2 +1,0 @@
-# fxsx
-sc by fxsx
